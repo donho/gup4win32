@@ -23,9 +23,9 @@ Use this file to set your proxy settings if need.
 <GUP_NativeLangue name = "Français">
 	<PopupMessages>
 		<MSGID_NOUPDATE>La mise à jour n'est pas disponible.</MSGID_NOUPDATE>
-		<MSGID_UPDATEAVAILABLE>Une mise à jour est disponible, voulez-vous le télécharger?</MSGID_UPDATEAVAILABLE>
+		<MSGID_UPDATEAVAILABLE>Une mise à jour est disponible, voulez-vous la télécharger ?</MSGID_UPDATEAVAILABLE>
 		<MSGID_DOWNLOADSTOPPED>Le téléchargement est interrompu. La mise à jour ne sera pas poursuivie.</MSGID_DOWNLOADSTOPPED>
 		<MSGID_CLOSEAPP> est ouvert. Il sera fermé afin de pouvoir poursuivre l'installation. Continuer ?</MSGID_CLOSEAPP>
-		<MSGID_ABORTORNOT>Etes-vous sûr de vouloir interrompre le téléchargement?</MSGID_ABORTORNOT>
+		<MSGID_ABORTORNOT>Etes-vous sûr de vouloir interrompre le téléchargement ?</MSGID_ABORTORNOT>
 	</PopupMessages>
 </GUP_NativeLangue>
