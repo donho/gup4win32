@@ -22,7 +22,7 @@ Use this file to set your proxy settings if need.
 <?xml version="1.0" encoding="Windows-1252" ?>
 <GUP_NativeLangue name = "Français">
 	<PopupMessages>
-		<MSGID_NOUPDATE>La mise à jour n'est pas disponible.</MSGID_NOUPDATE>
+		<MSGID_NOUPDATE>Aucune mise à jour n'est disponible.</MSGID_NOUPDATE>
 		<MSGID_UPDATEAVAILABLE>Une mise à jour est disponible, voulez-vous la télécharger ?</MSGID_UPDATEAVAILABLE>
 		<MSGID_DOWNLOADSTOPPED>Le téléchargement est interrompu. La mise à jour ne sera pas poursuivie.</MSGID_DOWNLOADSTOPPED>
 		<MSGID_CLOSEAPP> est ouvert. Il sera fermé afin de pouvoir poursuivre l'installation. Continuer ?</MSGID_CLOSEAPP>
